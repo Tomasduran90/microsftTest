@@ -11,3 +11,16 @@ C:\Users\Tomas\source\repos\Tomas.Duran.Agilesight.Test\Tomas.Duran.Agilesight.T
 C:\Users\Tomas\source\repos\Tomas.Duran.Agilesight.Test\Tomas.Duran.Agilesight.Test\obj\Debug\netcoreapp3.1\Tomas.Duran.Agilesight.Test.pdb
 C:\Users\Tomas\source\repos\Tomas.Duran.Agilesight.Test\Tomas.Duran.Agilesight.Test\obj\Debug\netcoreapp3.1\Tomas.Duran.Agilesight.Test.genruntimeconfig.cache
 C:\Users\Tomas\source\repos\Tomas.Duran.Agilesight.Test\Tomas.Duran.Agilesight.Test\bin\Debug\netcoreapp3.1\Resources\EnglishWords.txt
+C:\Users\Tomas\Documents\microsftTest\Tomas.Duran.Agilesight.Test\bin\Debug\netcoreapp3.1\Tomas.Duran.Agilesight.Test.exe
+C:\Users\Tomas\Documents\microsftTest\Tomas.Duran.Agilesight.Test\bin\Debug\netcoreapp3.1\Resources\EnglishWords.txt
+C:\Users\Tomas\Documents\microsftTest\Tomas.Duran.Agilesight.Test\bin\Debug\netcoreapp3.1\Tomas.Duran.Agilesight.Test.deps.json
+C:\Users\Tomas\Documents\microsftTest\Tomas.Duran.Agilesight.Test\bin\Debug\netcoreapp3.1\Tomas.Duran.Agilesight.Test.runtimeconfig.json
+C:\Users\Tomas\Documents\microsftTest\Tomas.Duran.Agilesight.Test\bin\Debug\netcoreapp3.1\Tomas.Duran.Agilesight.Test.runtimeconfig.dev.json
+C:\Users\Tomas\Documents\microsftTest\Tomas.Duran.Agilesight.Test\bin\Debug\netcoreapp3.1\Tomas.Duran.Agilesight.Test.dll
+C:\Users\Tomas\Documents\microsftTest\Tomas.Duran.Agilesight.Test\bin\Debug\netcoreapp3.1\Tomas.Duran.Agilesight.Test.pdb
+C:\Users\Tomas\Documents\microsftTest\Tomas.Duran.Agilesight.Test\obj\Debug\netcoreapp3.1\Tomas.Duran.Agilesight.Test.AssemblyInfoInputs.cache
+C:\Users\Tomas\Documents\microsftTest\Tomas.Duran.Agilesight.Test\obj\Debug\netcoreapp3.1\Tomas.Duran.Agilesight.Test.AssemblyInfo.cs
+C:\Users\Tomas\Documents\microsftTest\Tomas.Duran.Agilesight.Test\obj\Debug\netcoreapp3.1\Tomas.Duran.Agilesight.Test.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\Documents\microsftTest\Tomas.Duran.Agilesight.Test\obj\Debug\netcoreapp3.1\Tomas.Duran.Agilesight.Test.dll
+C:\Users\Tomas\Documents\microsftTest\Tomas.Duran.Agilesight.Test\obj\Debug\netcoreapp3.1\Tomas.Duran.Agilesight.Test.pdb
+C:\Users\Tomas\Documents\microsftTest\Tomas.Duran.Agilesight.Test\obj\Debug\netcoreapp3.1\Tomas.Duran.Agilesight.Test.genruntimeconfig.cache

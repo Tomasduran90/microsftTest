@@ -1,2 +1,0 @@
-C:\Users\Tomas\source\repos\Tomas.Duran.Agilesight.Test\Tomas.Duran.Agilesight.UnitTests\obj\Debug\Tomas.Duran.Agilesight.UnitTests.csprojAssemblyReference.cache
-C:\Users\Tomas\source\repos\Tomas.Duran.Agilesight.Test\Tomas.Duran.Agilesight.UnitTests\obj\Debug\Tomas.Duran.Agilesight.UnitTests.csproj.CoreCompileInputs.cache
